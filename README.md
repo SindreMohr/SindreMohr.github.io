@@ -1,3 +1,3 @@
 # SindreMohr.github.io
 
-[the Page](SindreMohr.github.io)
+[the Page](https://sindremohr.github.io/))
